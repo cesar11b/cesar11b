@@ -16,14 +16,14 @@ Apasionado por el desarrollo web y en constante aprendizaje.
 ## Tecnologías que manejo
 
 ### Front-End
-- **HTML5**  
-- **CSS3**  
-- **JavaScript (JS)**  
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js" alt="HTML, CSS, JS" />
+</p>
 
 ### Otros lenguajes
-- **Python**  
-- **C#**  
-- **C**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,cs,c" alt="Python, C#, C" />
+</p>
 
 ---
 
